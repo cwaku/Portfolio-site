@@ -1,5 +1,6 @@
 # Portfolio-site
 Building a portfolio site as my first project of the ALC-Nanodegree. Contains information about recent projects completed and contacts.
+https://cwaku.github.io/Portfolio-site/
 
 ## ISSUES:
 **Does** not really render well as expected on devices with large `viewport` mostly above `900px`. It was made with **mobile devices** in mind.
