@@ -1,7 +1,10 @@
 @media screen and (min-width: 850px) {
-html, header, body, footer {
-width: 800px;
-margin-left: auto;
-margin-right: auto;
-}
+  header, body, footer {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .hr {
+    display: 100%;
+  }
 }
