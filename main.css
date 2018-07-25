@@ -125,7 +125,7 @@ p a {
 }/*end of media query*/
 
 /*Behavior for screens with viewport more than 480px*/
-@media screen and (min-width:481px) (max-width: 849px) {
+@media screen and (min-width:481px) {
   header{
     width: 100%;
     height: 100%;
